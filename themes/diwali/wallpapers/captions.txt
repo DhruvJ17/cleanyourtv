@@ -1,0 +1,5 @@
+# wallpaper_captions: the name shown under the top-right pills, as "<file><TAB><name>", one per line
+# (themes/README.md); drawn in code by make_wallpapers.py, CC0 1.0.
+01-diyas.jpg	Diyas on the rangoli
+02-lanterns.jpg	Lanterns over the rooftops
+03-fireworks.jpg	Fireworks over the old city
